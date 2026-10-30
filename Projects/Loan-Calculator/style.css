@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container {
+    background-color: darkcyan;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+
+input {
+    width: 100%;
+    font-size: 20px;
+    height: 30px;
+}
+
+.payment {
+    font-weight: 600;
+    font-size: 20px;
+}
